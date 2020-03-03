@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mt-portal-demo/static/css/main.bd9069b2.chunk.css",
+    "main.js": "/mt-portal-demo/static/js/main.a6277127.chunk.js",
+    "main.js.map": "/mt-portal-demo/static/js/main.a6277127.chunk.js.map",
+    "runtime-main.js": "/mt-portal-demo/static/js/runtime-main.21d00e5f.js",
+    "runtime-main.js.map": "/mt-portal-demo/static/js/runtime-main.21d00e5f.js.map",
+    "static/js/2.dc0b76f3.chunk.js": "/mt-portal-demo/static/js/2.dc0b76f3.chunk.js",
+    "static/js/2.dc0b76f3.chunk.js.map": "/mt-portal-demo/static/js/2.dc0b76f3.chunk.js.map",
+    "index.html": "/mt-portal-demo/index.html",
+    "precache-manifest.93e3dfc6bdfa501c771623c39c513f26.js": "/mt-portal-demo/precache-manifest.93e3dfc6bdfa501c771623c39c513f26.js",
+    "service-worker.js": "/mt-portal-demo/service-worker.js",
+    "static/css/main.bd9069b2.chunk.css.map": "/mt-portal-demo/static/css/main.bd9069b2.chunk.css.map",
+    "static/js/2.dc0b76f3.chunk.js.LICENSE.txt": "/mt-portal-demo/static/js/2.dc0b76f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mt-portal-demo/static/media/Poppins-Regular.731a28a4.ttf",
+    "static/media/img-02.png": "/mt-portal-demo/static/media/img-02.cc17bc2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d00e5f.js",
+    "static/js/2.dc0b76f3.chunk.js",
+    "static/css/main.bd9069b2.chunk.css",
+    "static/js/main.a6277127.chunk.js"
+  ]
+}
